@@ -103,5 +103,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/1amo/1amo.github.io.git
+  repo: https://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@github.com/1amo/1amo.github.io.git
   branch: master
